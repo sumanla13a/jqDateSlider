@@ -1,0 +1,20 @@
+{
+  "name": "jqDateSliderFork",
+  "version": "0.0.0",
+  "authors": [
+    "sumanla13a <lamasuman2@gmail.com>"
+  ],
+  "description": "includes css and min file for date range slider",
+  "main": "jqueryDateRange.min.js",
+  "keywords": [
+    "dateSlider"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
