@@ -5,7 +5,11 @@
     "sumanla13a <lamasuman2@gmail.com>"
   ],
   "description": "includes css and min file for date range slider",
-  "main": "jqueryDateRange.min.js",
+  "main": [
+    "./jqueryDateRange.min.js",
+    "./classic-min.css",
+    "./iThing-min.css"
+  ],
   "keywords": [
     "dateSlider"
   ],
